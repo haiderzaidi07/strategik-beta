@@ -86,7 +86,13 @@ Cloudinary Configuration
 
 ## Lessons Learned
 
-What did you learn while building this project? What challenges did you face and how did you overcome them?
+- Implemented various levels of user authorization
+- Developed an interface for admin controls
+- Learned to create a comprehensive comments system
+- Learned how file handling works in JavaScript
+- Utilized Context API for improved state management
+- Gained insights into MongoDB search functionality
+- Integrated third-party APIs like tawk.to and ConvertAPI
 
 
 ## Further Optimizations
